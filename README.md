@@ -1,2 +1,3 @@
 # restApi
-Simple demo of developing RestAPI with Spring Boot
+Simple demo of developing RestAPI with Java Spring Boot framework
+
